@@ -1,12 +1,19 @@
 package com.P1;
 
 public class ExcelRead {
+	
+	public static String fileName = "test";
+	
 	public static void main(String[] args) {
 		System.out.println("Hello World! GitHub Project");
+		ExcelRead obj = new ExcelRead();
+		obj.readExcel(fileName);
 		
 	}
 	
 	public void readExcel(String fileName){
+		
+		System.out.println("User 2 is working on Git");
 		
 		
 		
