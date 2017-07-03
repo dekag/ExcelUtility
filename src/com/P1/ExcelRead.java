@@ -17,7 +17,8 @@ public class ExcelRead {
 		System.out.println("User1 Commit");
 		System.out.println("User1 Change without pulling");
 		System.out.println("User2 Commit");
-		
+		//Sysout from User 2
+		System.out.println("Test");
 		
 	}
 
