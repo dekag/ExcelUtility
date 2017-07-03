@@ -13,8 +13,8 @@ public class ExcelRead {
 	
 	public void readExcel(String fileName){
 		
-		System.out.println("User 2 is working on Git");
-		
+		//Added new sysout
+		System.out.println("User1 Commit");
 		
 		
 	}
