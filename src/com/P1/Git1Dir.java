@@ -9,5 +9,8 @@ public class Git1Dir {
 	public void addOne(){
 		System.out.println();
 	}
+	public void addTwo(){
+		System.out.println();
+	}
 
 }

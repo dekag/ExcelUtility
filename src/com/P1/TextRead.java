@@ -55,5 +55,9 @@ public class TextRead {
 		System.out.println("User1Commented");
 		System.out.println("User2WithoutDirectToMaster");
 	}
+	
+	public void add(){
+		
+	}
 
 }
