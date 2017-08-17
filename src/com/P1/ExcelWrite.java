@@ -6,4 +6,8 @@ public class ExcelWrite {
 		System.out.println("Adding another method");
 	}
 	
+	public void add(){
+		System.out.println("New Method Added");
+	}
+	
 }
