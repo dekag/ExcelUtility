@@ -4,6 +4,7 @@ public class Git1Dir {
 
 	public static void main(String[] args) {
 		System.out.println("Gautam");
-
-	}	
+		System.out.println("Deka");
+		System.out.println("Assam");
+	}
 }
