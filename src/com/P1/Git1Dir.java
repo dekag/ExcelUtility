@@ -6,5 +6,8 @@ public class Git1Dir {
 		System.out.println("Gautam");
 		System.out.println("Deka");
 		System.out.println("Assam");
-	}
+		System.out.println("Mumbai");
+		System.out.println("Pune");
+
+	}	
 }

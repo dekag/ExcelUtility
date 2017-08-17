@@ -45,4 +45,8 @@ public class ExcelRead {
 
 	}
 
+public void test(){
+	System.out.println("This is a method Just to Test");
+}
+
 }
