@@ -12,5 +12,8 @@ public class Git1Dir {
 	public void addTwo(){
 		System.out.println();
 	}
+	public void addFour(){
+		System.out.println();
+	}
 
 }
