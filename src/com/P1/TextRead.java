@@ -15,6 +15,18 @@ public class TextRead {
 		
 	}
 	
+	public static void read(String oneMoreTime){
+		try {
+			System.out.println("Test");
+			
+		} catch (Exception e) {
+	
+		}
+		finally {
+		}
+		
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("Added one new comment");
 		System.out.println("User1 TextRead");
