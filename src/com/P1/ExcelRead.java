@@ -9,7 +9,12 @@ public class ExcelRead {
 	}
 	public void projectOne() {
 		System.out.println("Add Print ProjectOne");
+		System.out.println("Project Three");
 		System.out.println("Add Print ProjectTwo");
 		System.out.println("Add Print ProjectOne");
+		System.out.println("Project Three");
+	}
+	public void projectThree(){
+		System.out.println();
 	}
 }
