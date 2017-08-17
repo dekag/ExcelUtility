@@ -9,7 +9,7 @@ public class Git1Dir {
 	public void addOne(){
 		System.out.println();
 	}
-	public void addTwo(){
+	public void addThree(){
 		System.out.println();
 	}
 	public void addFour(){
