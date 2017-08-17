@@ -6,5 +6,8 @@ public class Git1Dir {
 		// TODO Auto-generated method stub
 
 	}
+	public void addOne(){
+		System.out.println();
+	}
 
 }
