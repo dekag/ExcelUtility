@@ -26,6 +26,29 @@ public class TextRead {
 		}
 		
 	}
+	public static void writeOneMethod(){
+		try {
+			System.out.println("Test");
+			
+		} catch (Exception e) {
+	
+		}
+		finally {
+		}
+		
+	}
+	
+	public static void newMethod(String secondTime){
+		try {
+			System.out.println("Test");
+			
+		} catch (Exception e) {
+	
+		}
+		finally {
+		}
+		
+	}
 	
 	public static void main(String[] args) {
 		System.out.println("Added one new comment");
