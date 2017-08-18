@@ -13,11 +13,15 @@ public class ExcelRead {
 		System.out.println("Add Print ProjectOne");
 		System.out.println("Project Three");
 		System.out.println("TGIF");
+		System.out.println("Its Friday");
 		System.out.println("Project Four");
 		System.out.println("Add Print ProjectTwo");
+		System.out.println("Its Friday");
 		System.out.println("Project Four");
 		System.out.println("TGIF");
+		System.out.println("Its Friday");
 		System.out.println("Add Print ProjectOne");
+		System.out.println("Its Friday");
 		System.out.println("Project Three");
 	}
 	public void projectThree(){
@@ -28,5 +32,8 @@ public class ExcelRead {
 	}
 	public void goodMorning(){
 		System.out.println("TGIF");
+	}
+	public void itsFriday(){
+		System.out.println("Its Friday");
 	}
 }
